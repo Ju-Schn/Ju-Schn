@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🌱 I’m currently learning web development at [neuefische bootcamp](https://www.neuefische.de)
 
 [![Ju-Schn's github stats](https://github-readme-stats.vercel.app/api?username=Ju-Schn)](https://github.com/anuraghazra/github-readme-stats)
 
