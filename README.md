@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-🌱 I’m currently learning web development at [neuefische bootcamp](https://www.neuefische.de)
+🔭 I’m currently working on my capstone project Cardify: Coming up: Sign up and Log In 
+
+🤩 I'm really excited to learn more about React, Redux and PHP in my slef-studies at the moment
+
+🤓 I've successfully graduated in web development at [neuefische bootcamp](https://www.neuefische.de) Yaaayyy! 🎉
+
+<br/>
 
 [![Ju-Schn's github stats](https://github-readme-stats.vercel.app/api?username=Ju-Schn)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,7 +18,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...                    
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
