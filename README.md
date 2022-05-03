@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my capstone project Cardify: Coming up: Sign up and Log In 
+🔭 I’m currently working on my project Cardify: Coming up: Sign up and Log In 
 
 🤩 I'm really excited to learn more about React, Redux and PHP in my slef-studies at the moment
 
