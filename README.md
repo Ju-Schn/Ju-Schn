@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on my project Cardify: Coming up: Sign up and Log In 
 
-🤩 I'm really excited to learn more about React, Redux and PHP in my slef-studies at the moment
+🤩 I'm really excited to learn more about React, Redux and PHP in my self-studies at the moment
 
 🤓 I've successfully graduated in web development at [neuefische bootcamp](https://www.neuefische.de) Yaaayyy! 🎉
 
